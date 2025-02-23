@@ -10,7 +10,7 @@ A partir desses dados, foram criados modelos de aprendizado de máquina utilizan
 - Otimização de parâmetros de algoritmos
 - Comparação entre os modelos de Machine Learning
 
-Ao longo do projeto, os trechos de códigos foram comentados e os modelos e métodos de avaliação foram explicados para uma melhor compreensão do que foi feito em cada etapa, além de estatísticas e interpretação dos resultados. 
+Ao longo do projeto, os trechos de códigos foram comentados e os modelos e métodos de avaliação foram explicados para uma melhor compreensão do que foi feito em cada etapa, além de estatísticas e interpretações dos resultados. 
 
-[Link para o projeto]( https://bit.ly/3Xe587a)
+[Clique aqui para ver o projeto completo]( https://bit.ly/3Xe587a)
 
